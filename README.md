@@ -9,6 +9,6 @@ Olá Dev! Esse desafio é para vc que gosta de tecnologias e quer aplicar-las nu
     - Backend: Nodejs e PHP (pode ser Laravel, sem problemas)
     - Frontend: React.
 - Após a conclusão, o repositório deverá conter um readme contendo instruções para build do projeto.
-- O prazo para o desenvolvimento é de até o dia 21/09/2020.
+- O prazo para o desenvolvimento é de até o dia 12/10/2020.
 
 Boa sorte!
